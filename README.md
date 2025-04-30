@@ -50,6 +50,6 @@ This repository includes QGIS project files, spatial datasets, and images refere
   ao68. (2022, May 18). GlobalMLBuildingFootprintsTest. GitHub.  
   [https://github.com/ao68/GlobalMLBuildingFootprintsTest](https://github.com/ao68/GlobalMLBuildingFootprintsTest)
 
-_External datasets are subject to their original licenses. Users are responsible for complying with the terms of use for each dataset. A full list of references and data sources is provided in the [report](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza)._
+_External datasets are subject to their original licenses. Users are responsible for complying with the terms of use for each dataset. A full list of references and data sources is provided in the report._
 
 **Funding Statement:** This research was undertaken as part of the Military Climate Emissions Mapping project supported with an Impact Grant from the University of Edinburgh Business School.
