@@ -42,6 +42,7 @@ This repository includes QGIS project files, spatial datasets, and images refere
   PRODUCT ID: 3904. [https://unosat.org/products/3904](https://unosat.org/products/3904)
 
   *Update: Damage Classification Points from Dec. 01, 2025:*
+  
   UNOSAT. (2024, December 13). UNOSAT Gaza Strip Comprehensive Damage Assessment. UNITAR. PRODUCT ID: 4047. [https://unosat.org/products/4047](https://unosat.org/products/4047) 
 
 - **2021 road network:**  
