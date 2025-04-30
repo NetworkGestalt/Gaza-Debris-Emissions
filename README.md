@@ -5,7 +5,7 @@ This repository includes QGIS project files, spatial datasets, and images used i
 [Estimating Carbon Emissions from Processing Building Debris in Gaza](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza) 
  (Abdelnour & Roy).
 
-> **Abstract:**
+> **Short Abstract:**
 > 
 > The debris from destroyed and damaged buildings is a material representation of the unprecedented human, infrastructural, and environmental devastation resulting from the bombardment of Gaza. Removing, transporting, and processing the immense quantity of building debris will have a significant impact on Gaza’s physical infrastructure and environment, while also representing a considerable portion of military-related carbon emissions. We estimate the carbon emissions arising from transporting building debris to nearby disposal sites, and from crushing uncontaminated concrete rubble into finer aggregates for reuse.
 
