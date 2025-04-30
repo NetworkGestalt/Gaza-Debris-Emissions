@@ -1,6 +1,6 @@
 ## Estimating Carbon Emissions from Processing Building Debris in Gaza
 
-This repository includes QGIS project files, spatial datasets, and images referenced in the report:
+This repository includes QGIS project files, spatial datasets, and images used in the paper:
 
 [Estimating Carbon Emissions from Processing Building Debris in Gaza](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza) 
  (Abdelnour & Roy).
@@ -23,7 +23,7 @@ This repository includes QGIS project files, spatial datasets, and images refere
    - **[shortest-paths](https://github.com/NetworkGestalt/Gaza-Debris-Carbon-Emissions/tree/main/QGIS-Data/shortest-paths):** Contains Origin-Destination (OD) matrices that encode the shortest paths from every damanged building to each of the five disposal sites proposed by UNEP, following Gaza's 2021 road network. Also includes vector (line) layers of the shortest path for each building to the nearest disposal site.
    - **[debris-heatmap](https://github.com/NetworkGestalt/Gaza-Debris-Carbon-Emissions/blob/main/QGIS-Data/debris-heatmap):** Contains GeoPackage database of centroids of matched footprints (for each damage class), used in the Kernel Density Estimation (weighted by log tonnes of debris) of the debris heatmap. The resulting heatmap is also included as a Raster subdivided into three files. 
    
-2. **[Images](https://github.com/NetworkGestalt/Gaza-Debris-Carbon-Emissions/tree/main/Images):** Collection of images (.png and .jpg), including those featured in the report and additional images excluded for brevity.
+2. **[Images](https://github.com/NetworkGestalt/Gaza-Debris-Carbon-Emissions/tree/main/Images):** Collection of images (.png and .jpg), including those featured in the paper and additional images excluded for brevity.
    
 3. **[Scripts](https://github.com/NetworkGestalt/Gaza-Debris-Carbon-Emissions/tree/main/Scripts):** Text files (.txt) containing Python code that we found to be useful during the estimation process. These include short scripts that extract the shortest paths from the OD matrices, and for filtering building footprints that are matched to several overlapping PCBS storey count points by computing their average.
 
@@ -50,6 +50,6 @@ This repository includes QGIS project files, spatial datasets, and images refere
   ao68. (2022, May 18). GlobalMLBuildingFootprintsTest. GitHub.  
   [https://github.com/ao68/GlobalMLBuildingFootprintsTest](https://github.com/ao68/GlobalMLBuildingFootprintsTest)
 
-_External datasets are subject to their original licenses. Users are responsible for complying with the terms of use for each dataset. A full list of references and data sources is provided in the report._
+_External datasets are subject to their original licenses. Users are responsible for complying with the terms of use for each dataset. A full list of references and data sources is provided in the paper._
 
 **Funding Statement:** This research was undertaken as part of the Military Climate Emissions Mapping project supported with an Impact Grant from the University of Edinburgh Business School.
