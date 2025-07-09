@@ -1,8 +1,8 @@
-## Estimating Carbon Emissions from Processing Building Debris in Gaza
+## Processing Debris From Destroyed and Damaged Buildings in Gaza: Carbon Emissions, Time Frames, and Implications for Rebuilding
 
 This repository includes QGIS project files, spatial datasets, and images used in the paper:
 
-[Estimating Carbon Emissions from Processing Building Debris in Gaza](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza) 
+[Processing Debris From Destroyed and Damaged Buildings in Gaza: Carbon Emissions, Time Frames, and Implications for Rebuilding](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza) 
  (Abdelnour & Roy).
 
 > **Short Abstract:**
